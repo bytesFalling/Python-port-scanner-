@@ -3,7 +3,7 @@ import socket
 
 def main():
         #Output message 
-        print ( "bytesFalling present\n" )
+        print ( "bytesFalling presents\n" )
         print ( "Python port scanner\n" )
 
         #calling function
